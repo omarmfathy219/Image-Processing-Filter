@@ -37,6 +37,8 @@ from the following link on the MathWorks website:
 
     http://www.mathworks.com/products/compiler/mcr/index.html
    
+## OR 
+you can just run the MyAppInstaller_web.exe and it will Install Automatically
 
 # Screenshot!!
  ![N|Solid](https://gg6kga.bn.files.1drv.com/y4mmJs9UcMIkv7J1H4nSkPrLHmjLvpdSxfoqiACqEDV9TuaiJ8kBuqn0AVwVtcRYLHsyzkSi7I-ut5LzOsZ9omy5AlDPbt1TattMyvZKaE38hOiel8Co-TJAF29qeuqjMTYaho74iFYZam3gGmdXipLsI06z5Ksq0XEb8i6vMFkdKWEEoiXFhjKi2Cw93VNRA6kMfl0IAnStjqHAv2zFW21Uw?width=704&height=616&cropmode=none)
