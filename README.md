@@ -1,38 +1,27 @@
-# School Project
+# Image-Processing-Filter
 
 ![N|Solid](https://epid1w.by.files.1drv.com/y4mb7-V32-a9BPsPmHzBsbL84MAlgvdLU75O7jT_dNn0PYMnT7aXb25VCgCuLukeOoIxZk9Ew_T8E_KX95RHpXmgt3bHBYsqPenONootRNwZk0pzEr5fEFhUVXiRcUlanu1bsf7MIOO2TQfzz-YBRoGxLpiExr70Wo4erQtWvIs5qI8VtJlaWtr0suclx7opKXFaFv3KjGdmJtzJxb8G2HqCQ?width=256&height=97&cropmode=none)
 
 ```sh
-Windows Applicontion Project for University  
-```
+This project add filters to any image you upload ```
 
 
-# Done Tasks!
+# Filters:
 
-Database
-> - Database Creadted  
-> - Database Diagram Created
+> - Average
+> - Gaussian
+> - Median
+> - Adjust
+> - Complement
+> - Add
+> - Divide
+> - Multiply
+> - Sobel
+> - Prewitt
+> - Histogram
+> - Laplacian
 
-Data Access Layer (Done)
- > - Database Connection Added
-> - Open Connection Method Added
-> - Close Connection Method Added
-> - Read Data From Database Method Added
-> - Insert,Update,Delete into Database Method added  -------> School Project/Data Access Layer/DataAccessLayer.cs
 
-Business Layer (Working...)
- > - Login Class Added -------> School Project/Business Layer/CLS_LOGIN.cs
- >- Login Form Added -------> School Project/Business Layer/LOGIN+Form.cs
- >- ADD_STUDENT Query Added
- >- VerfiyStudentID Function Added
- 
- Presentation Layer (Working...)
->- Main Form Added
->- Add Student Form Added
->- Manage Students Form Added
->- Add Student Button Done
->- Delete Button Done
->- Close Button Done
 
 
 # Screenshot!!
