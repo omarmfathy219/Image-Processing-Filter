@@ -23,7 +23,13 @@ This project add filters to any image you upload
 > - Laplacian
 
 
+# Prerequisites for Deployment :
+Verify that version 9.4 (R2018a) of the MATLAB Runtime is installed.   
+If not, you can download and install the Windows version of the MATLAB Runtime for R2018a 
+from the following link on the MathWorks website:
 
+    http://www.mathworks.com/products/compiler/mcr/index.html
+   
 
 # Screenshot!!
 
