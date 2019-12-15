@@ -3,7 +3,8 @@
 ![N|Solid](https://epid1w.by.files.1drv.com/y4mb7-V32-a9BPsPmHzBsbL84MAlgvdLU75O7jT_dNn0PYMnT7aXb25VCgCuLukeOoIxZk9Ew_T8E_KX95RHpXmgt3bHBYsqPenONootRNwZk0pzEr5fEFhUVXiRcUlanu1bsf7MIOO2TQfzz-YBRoGxLpiExr70Wo4erQtWvIs5qI8VtJlaWtr0suclx7opKXFaFv3KjGdmJtzJxb8G2HqCQ?width=256&height=97&cropmode=none)
 
 ```sh
-This project add filters to any image you upload ```
+This project add filters to any image you upload 
+```
 
 
 # Filters:
